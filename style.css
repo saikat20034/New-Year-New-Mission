@@ -14,7 +14,7 @@ min-height: 600px;
 /* border: 2px red solid; */
 margin: 0 auto;
 margin-top: 20px;
-background-image: url("../new-year-offer-resources/images/Banner\ Image.png");
+background-image: url("./images/Banner\ Image.png");
 background-position: center;
 background-color: rgba(0,0,0,0.4);
 background-blend-mode: overlay;
@@ -92,7 +92,7 @@ font-weight: 500;
   /* border:2px solid salmon; */
   margin: 0 auto;
   display: flex;
-  background-image: url("../new-year-offer-resources/images/Vectorrr.png") ;
+  background-image: url("./images/Vectorrr.png") ;
   background-color: rgba(0,0,0,0.4);
   background-blend-mode: overlay;
   background-position: center;

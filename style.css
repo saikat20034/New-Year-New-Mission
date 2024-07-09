@@ -229,10 +229,11 @@ font-weight: 900;
   width: 1320px;
   height: 1163px;
  /* border:2px solid red; */
- margin:0 auto;
- margin:120px;
+  margin:0 auto;
+  /* margin:120px; */
 }
 .portfolio-text-content h5{
+  margin-top: 120px;
   color:rgb(255,0,0);
   font-size: 24px;
   font-family: Inter;
